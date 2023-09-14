@@ -11,7 +11,7 @@ tunnels and EDRs.
 The repository contains 4 reports in which you can find all the steps executed to implement the above actions. The report's name indicates the main actions executed in that assignment.
 
 The order of reading should be:
-1. /VPN and IPsec.pdf
-1. /Firewalls.pdf
-1. /Logs and SIEM.pdf
-1. /IPS.pdf
+1. [VPN and IPsec.pdf](VPN-and-IPsec.pdf)
+1. [Firewalls.pdf](Firewalls.pdf)
+1. [Logs and SIEM.pdf](Logs-and-SIEM.pdf)
+1. [IPS.pdf](IPS.pdf)
