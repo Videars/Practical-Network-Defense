@@ -9,3 +9,9 @@ tunnels and EDRs.
 - Implemented a logging system with a SIEM (Graylog) and a log server.
 
 The repository contains 4 reports in which you can find all the steps executed to implement the above actions. The report's name indicates the main actions executed in that assignment.
+
+The order of reading should be:
+1. VPN and IPsec.pdf
+1. Firewalls.pdf
+1. Logs and SIEM.pdf
+1. IPS.pdf
